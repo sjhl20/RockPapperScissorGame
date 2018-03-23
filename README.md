@@ -6,6 +6,5 @@ Can be played in two modes:
      1: Player vs Player
      2: Player vs Bot
      
-Example on how to use Interface.
-
+Use of Interface.
 Language used: Java 
