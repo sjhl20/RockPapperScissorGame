@@ -60,7 +60,7 @@ public class Main {
 		}else{
 			System.out.println("Invalid game mode selection!!");
 			System.out.println("Game will terminate now");
-			System.exit(1);
+			//System.exit(1);
 		}
 					
 	}
